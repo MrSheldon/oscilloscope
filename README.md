@@ -1,2 +1,2 @@
-# Oscilloscope
-An oscilloscope made with Arduino and Processing
+# oscilloscope
+A simple oscilloscope made with Arduino and Processing
